@@ -35,3 +35,6 @@ printf("%d",adf);
 비쥬얼스튜디오 편해요
 
 dskljfal;kjfkla;k
+
+
+새로운 내용
