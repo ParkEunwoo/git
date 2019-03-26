@@ -42,3 +42,13 @@ dskljfal;kjfkla;k
 6:13
 
 내가 마스터
+
+1. 병합 당할 브랜치로 이동
+git checkout samsung
+1. 병합할 브랜치 병합
+git merge naver
+
+A
+B
+C
+D
