@@ -1,4 +1,4 @@
-Git 수업 1주차
+Git 수업 1주차 박은우
 =========
 
 목차
@@ -52,7 +52,6 @@ A
 B
 C
 D
-
 
 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
